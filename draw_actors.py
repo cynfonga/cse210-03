@@ -1,0 +1,13 @@
+score=cast.get_first_actor("scores")
+food=cast.get_first_actor("snakes"
+cycles=cast.get_first_actor('cycles'
+cycle1=cycles[0])
+cycle1-segments=cycle.get_segments()
+cycles2=cycles[1]
+cycles2-segments=cycle2.get_segments()
+cycles2=cycles[1]
+cycle2-segments=cycle2.get_segments()
+cycle1.grow_tail(1)
+cycle2.grow_tail(1)
+messages=cast.get_actors("messages")
+self._video_service_clear_buffer()
